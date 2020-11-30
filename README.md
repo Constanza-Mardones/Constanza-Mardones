@@ -1,6 +1,6 @@
-Hi :octocat:, I am Constanza Mardones, a graphic designer and a beginner in front-end development, eager to continue learning. <br/>
-from Temuco, Chile
-:rabbit2:
+Hi 👋🏼, I am Constanza Mardones, a graphic designer and a beginner in front-end development, eager to continue learning 💻👩🏻
+from Temuco, Chile.
+
 
 
 <!--

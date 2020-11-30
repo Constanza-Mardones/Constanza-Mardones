@@ -1,7 +1,13 @@
-### Hi there 👋
+Hi :octocat:, I am Constanza Mardones, a graphic designer and a beginner in front-end development, eager to continue learning. <br/>
+from Temuco, Chile
+:rabbit2:
+
 
 <!--
 **Constanza-Mardones/Constanza-Mardones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+languages: HTML, CSS, Javascript
+Frameworks: Vue JS
 
 Here are some ideas to get you started:
 
